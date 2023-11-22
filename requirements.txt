@@ -5,3 +5,4 @@ Flask==2.1.1
 Flask_Cors==3.0.10
 requests==2.28.1
 gunicorn
+Werkzeug==2.2.2
